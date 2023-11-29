@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "495396274381",
+    "firebase_url": "https://expiroscan-default-rtdb.firebaseio.com",
+    "project_id": "expiroscan",
+    "storage_bucket": "expiroscan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495396274381:android:ea822be1ae3cbcdbe4e984",
+        "android_client_info": {
+          "package_name": "com.example.expiro_scan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-9DoMgMsZ-0u4Mg8FoP2frJ2aQXX2heY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
